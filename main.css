@@ -8,3 +8,18 @@
     --clo-one:#4444;
 
 }
+
+
+@font-face {
+    font-family: vazir;
+    src: url('./font/vazir/Vazir.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body{
+    font-family:vazir;
+
+
+}
