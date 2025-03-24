@@ -1,0 +1,11 @@
+{
+  "name": "rezomeh-mehran",
+  "version": "1.0.0",
+  "main": "sandbox.js",
+  "scripts": {
+    "watch": "-w"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
