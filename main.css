@@ -24,18 +24,44 @@ body{
 
 }
 
-
-.hero-sectin{
-
-    display: grid;
-    align-content: center;
-    grid-template-columns: 1fr 1fr;
-    align-items: center;
-}
-
 .line{
     height: 5px;
     width: 100px;
     background-color: aqua;
     border-radius: 50px;
+}
+
+.hero-sectin{
+
+    display: grid;
+    align-content: center;
+    grid-template-columns: 1fr;
+    align-items: center;
+}
+
+.hero-imag{
+
+    height: 200px;
+    display: grid;
+    justify-content: center;
+    align-items: center
+    
+}
+.hero-imag p , img , div{
+
+    justify-self: center;
+}
+
+.hero-info{
+
+    height: 200px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+.hero-info p {
+    justify-self: center;
+    align-self: center;
 }
