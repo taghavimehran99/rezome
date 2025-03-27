@@ -7,3 +7,7 @@ function fun(pp) {
     return 10 + 'pp';
 }
 console.log(fun(10));
+const mk = (man) => {
+    return '10';
+};
+console.log(mk(4));

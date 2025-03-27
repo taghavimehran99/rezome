@@ -9,3 +9,11 @@ function fun(pp) {
     
 }
 console.log(fun(10));
+
+
+const mk=(man :number)=>{
+return  '10';
+}
+
+
+console.log(mk(4));

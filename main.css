@@ -31,6 +31,10 @@ body{
     border-radius: 50px;
 }
 
+
+
+/* hero styels */
+
 .hero-sectin{
 
     display: grid;
@@ -59,9 +63,24 @@ body{
     justify-content: center;
     align-items: center;
     align-self: center;
+   
+
 }
 
 .hero-info p {
+    
     justify-self: center;
     align-self: center;
 }
+
+
+/* .hero-sectin i {
+    margin-right: 5px;
+} */
+
+.icon {
+   color: rgb(176, 176, 176);
+   font-size: 1.5rem;
+   
+}
+ 
