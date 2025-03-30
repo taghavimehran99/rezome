@@ -11,3 +11,18 @@ const mk = (man) => {
     return '10';
 };
 console.log(mk(4));
+const form = document.getElementById('form');
+form.addEventListener('submit', (e) => {
+    e.preventDefault;
+});
+let firstname = 'mehran';
+let lastname = 'taghavi';
+// console.log(lastname.indexOf);
+let result = firstname.lastIndexOf('n');
+console.log(result);
+const one = 'mehran';
+const two = 'tahavi';
+// const summ='my name is ' + one + 'my last name is '+ two;
+const after = `myname is ${one} amd my last name is ${two}`;
+// console.log(summ);
+console.log(after);
