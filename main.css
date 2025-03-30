@@ -72,6 +72,15 @@ a{
 
     justify-self: center;
 }
+.icons-sotial {
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+
+}
 
 .hero-info{
 
@@ -85,10 +94,11 @@ a{
 }
 
 .hero-info p {
-    
+   
     justify-self: center;
     align-self: center;
 }
+
 
 
 /* .hero-sectin i {
@@ -104,6 +114,10 @@ a{
     display: grid;
     justify-content: center;
 }
+/* .about p {
+    display: grid;
+    justify-content: center;
+} */
  
 .skils{
     display: grid;
