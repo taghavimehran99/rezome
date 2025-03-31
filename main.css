@@ -8,8 +8,9 @@
     --clo-one:#4444;
     --clo-two:#E2E3E5;
     --clo-three:#043382;
-    --col-four:#0773BA;
+    --col-four:#808080;
     --col-five:#191919;
+    --col-six:#0773BA;
     --radous:10px;
 
 
@@ -135,6 +136,7 @@ p{
     background-color:var(--col-four);
     padding: 20px 50px 50px 50px;
     border-radius: var(--radous);
+    border-radius: var();
 }
 
 /* amozesh styels */
