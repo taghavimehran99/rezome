@@ -49,8 +49,13 @@ a{
     color: black;
 }
 
+.about , .skils , .sabegrkar ,.amozesh , .project{
+
+    margin-top: 50px;
+}
 
 /* hero styels */
+
 
 .hero-sectin{
 
@@ -100,26 +105,78 @@ a{
 }
 
 
-
-/* .hero-sectin i {
-    margin-right: 5px;
-} */
-
 .icon {
    color: rgb(176, 176, 176);
    font-size: 1.5rem;
    
 }
+
+/* about styels */
+
 .about{
     display: grid;
     justify-content: center;
 }
-/* .about p {
+
+ .about p{
+    justify-self: center;
+    margin-top: 10px;
+ }
+
+/* amozesh styels */
+.amozesh{
     display: grid;
     justify-content: center;
-} */
- 
+    
+}
+
+.amozesh p {
+    justify-self: center;
+    margin-top: 10px;
+
+}
+
+ /* sabegrkar styels */
+
+ .sabegrkar{
+    display: grid;
+    justify-content: center;
+ }
+
+ .sabegrkar p {
+    justify-self: center;
+    margin-top: 10px;
+
+ }
+ .sabegrkar div{
+    margin-top: 30px;
+ }
+
+/* skils styel */
+
 .skils{
     display: grid;
     justify-content: center;
 }
+
+
+.skils p{
+    justify-self: center;
+    margin-top: 10px;
+
+}
+
+/* project */
+
+.project{
+    
+    display: grid;
+    justify-content: center;
+}
+.project a{
+    justify-self: center;
+    margin-top: 20px;
+
+}
+
+
